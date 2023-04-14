@@ -1,0 +1,4 @@
+packages/*
+Notifications/bin/*
+Notifications/obj/*
+.vs/*
